@@ -1,0 +1,23 @@
+Control Panel -> Programs And Features -> Turn Windows features on or off
+
+Turn on WIndows Subsystem for Linux
+
+Install Ubuntu 20.04 from the Microsoft Store
+
+Or Have a Virtual Box VM's with ubuntu
+
+Once the Ubuntu machine is ready:
+
+sudo apt-get install python3-pip
+
+pip3 install virtualenv
+
+mkdir virtualenvironment
+
+sudo virtualenv virtualenvironment -python=python3
+
+source virtualenvironment/bin/activate
+
+note: Use the commands (which python/pip3) list in order to verify you are using a different environment
+
+deactivate (note: to deactivate the environment)

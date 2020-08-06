@@ -1,10 +1,13 @@
+A virtual environment is a tool that helps to keep dependencies required by projects exclusive to that project instead of being available globally
+
+On a Windows Machine:
 Control Panel -> Programs And Features -> Turn Windows features on or off
 
-Turn on WIndows Subsystem for Linux
+Turn on Windows Subsystem for Linux
 
 Install Ubuntu 20.04 from the Microsoft Store
 
-Or Have a Virtual Box VM's with ubuntu
+lauch the Ubuntu Distro
 
 Once the Ubuntu machine is ready:
 

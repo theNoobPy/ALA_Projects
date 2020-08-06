@@ -1,0 +1,5 @@
+Sometimes there is a race condition that occurs which causes the system to bug out and crash when neighbors are talking to each other.
+
+Note: 
+
+
